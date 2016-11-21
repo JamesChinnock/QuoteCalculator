@@ -1,0 +1,9 @@
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\Quote.exe.config
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\Quote.exe
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\Quote.pdb
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\LoanCalculator.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\StructureMap.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\bin\Debug\LoanCalculator.pdb
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\obj\Debug\Quote.csprojResolveAssemblyReference.cache
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\obj\Debug\Quote.exe
+D:\James\Dev\Interviews\Zopa\LoanCalculator\Quote\obj\Debug\Quote.pdb

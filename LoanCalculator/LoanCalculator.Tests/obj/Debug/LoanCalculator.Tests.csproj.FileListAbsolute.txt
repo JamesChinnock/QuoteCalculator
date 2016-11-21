@@ -1,0 +1,10 @@
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\LoanCalculator.Tests.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\LoanCalculator.Tests.pdb
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\LoanCalculator.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\Rhino.Mocks.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\LoanCalculator.pdb
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\bin\Debug\Rhino.Mocks.xml
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\obj\Debug\LoanCalculator.Tests.csprojResolveAssemblyReference.cache
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\obj\Debug\LoanCalculator.Tests.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator.Tests\obj\Debug\LoanCalculator.Tests.pdb

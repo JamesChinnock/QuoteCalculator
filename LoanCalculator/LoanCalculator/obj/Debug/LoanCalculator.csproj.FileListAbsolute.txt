@@ -1,0 +1,4 @@
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator\bin\Debug\LoanCalculator.pdb
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.dll
+D:\James\Dev\Interviews\Zopa\LoanCalculator\LoanCalculator\obj\Debug\LoanCalculator.pdb
